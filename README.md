@@ -64,11 +64,6 @@ Bem-vindo ao **SisCoc**! Este é um sistema desenvolvido em **PHP** com **Bootst
 
 ---
 
-## 📷 **Captura de Tela**
-
-Adicione uma captura de tela do sistema aqui para referência visual (opcional).
-
----
 
 ## ✍️ **Autor**
 
