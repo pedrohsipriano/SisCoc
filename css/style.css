@@ -1,0 +1,16 @@
+
+
+.lexend-deca {
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.page{
+    background: linear-gradient(to bottom, #add8e6, #ffffff) no-repeat;
+}
+.rodape{
+    margin-bottom: -1000px;
+    font-size: x-small;
+}
